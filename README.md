@@ -3,6 +3,7 @@ This README.md referenced [chentsulin/electron-react-boilerplate] https://github
 
 ### A Chat Desktop Apps
 <br/>
+
 [![Build Status][travis-image]][travis-url]
 [![Appveyor Build Status][appveyor-image]][appveyor-url]
 [![Dependency Status][david_img]][david_site]
@@ -21,9 +22,6 @@ This README.md referenced [chentsulin/electron-react-boilerplate] https://github
 [![Yarn](/internals/img/yarn-padded-90.png)](https://yarnpkg.com/)
 
 [Electron](http://electron.atom.io/) application boilerplate based on [React](https://facebook.github.io/react/), [Redux](https://github.com/reactjs/redux), [React Router](https://github.com/reactjs/react-router), [Webpack](http://webpack.github.io/docs/), [React Transform HMR](https://github.com/gaearon/react-transform-hmr) for rapid application development
-
-## Screenshot
-
 
 ## Install
 
