@@ -1,7 +1,9 @@
-# Sweet Chatter - A Chat Desktop Apps
+# Sweet Chatter
+It's a chat desktop app.
 This README.md referenced [chentsulin/electron-react-boilerplate] https://github.com/chentsulin/electron-react-boilerplate
 
-# Technologies and Tools
+# Development
+<br/>
 
 [![React](/internals/img/react-padded-90.png)](https://facebook.github.io/react/)
 [![Webpack](/internals/img/webpack-padded-90.png)](https://webpack.github.io/)
